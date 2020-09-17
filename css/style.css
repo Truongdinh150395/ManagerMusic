@@ -1,0 +1,8 @@
+/*.image_detail img{*/
+/*    width: 50%;*/
+/*}*/
+
+.box-img-detail img{
+    width: 90% !important;
+    background-color: blue;
+}
